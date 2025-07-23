@@ -2,7 +2,7 @@
 
 Welcome to **Sorting Array Visualizer**, an interactive web application that brings sorting algorithms to life! This project is designed to help you understand and visualize how various sorting algorithms work through dynamic animations and intuitive controls. Built with modern web technologies, it’s perfect for students, developers, and anyone curious about algorithms. 🚀
 
-🔗 **[Visit the Live Website](https://sorting-array-visualizer.vercel.app/)**
+🔗 **[Visit the Live Project](https://sorting-array-visualizer.vercel.app/)**
 
 ---
 
