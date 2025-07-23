@@ -88,15 +88,11 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
 Got questions or ideas? Reach out to us!
 
-- **GitHub**: [aryansaxena978](https://github.com/aryansaxena978)
-- **Email**: aryansaxena978@example.com
+- **GitHub**: [vedantbirla01](https://github.com/vedantbirla01)
+- **Email**: birlavedant901@gmail.com
 
 ---
 
 ## 🌈 Why Sorting Array Visualizer?
 
 Sorting Array Visualizer is more than just a tool—it’s an engaging way to learn and explore sorting algorithms. Built with a focus on education and user experience, it’s ideal for developers honing their skills and educators teaching algorithms. Dive in and make sorting fun! 📈
-
-[![GitHub Stars](https://img.shields.io/github/stars/aryansaxena978/Sorting-Array-Visualizer?style=social)](https://github.com/aryansaxena978/Sorting-Array-Visualizer/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/aryansaxena978/Sorting-Array-Visualizer?style=social)](https://github.com/aryansaxena978/Sorting-Array-Visualizer/network)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
